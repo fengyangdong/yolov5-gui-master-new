@@ -1,2 +1,2 @@
-import time
-print(time.strftime('时间：%Y-%m-%d %H:%M:%S', time.localtime()))
+import torch
+print(torch.__version__)
